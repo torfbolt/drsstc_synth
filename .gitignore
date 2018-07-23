@@ -1,0 +1,6 @@
+build
+deps
+.project
+.cproject
+.settings
+*.log
